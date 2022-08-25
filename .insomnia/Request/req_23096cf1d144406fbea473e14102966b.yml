@@ -1,0 +1,21 @@
+_id: req_23096cf1d144406fbea473e14102966b
+type: Request
+parentId: fld_092edc345b784af4bbba1c341e53044b
+modified: 1661414032043
+created: 1660942411947
+url: localhost:4322/api/transactions/history/1?pageSize=10&offset=0
+name: transaction history
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660942411947
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

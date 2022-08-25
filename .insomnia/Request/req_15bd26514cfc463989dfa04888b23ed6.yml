@@ -1,0 +1,31 @@
+_id: req_15bd26514cfc463989dfa04888b23ed6
+type: Request
+parentId: fld_092edc345b784af4bbba1c341e53044b
+modified: 1661414134371
+created: 1660940336026
+url: localhost:4322/api/transactions
+name: add transaction
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"sId": 1,
+    	"pId": 1,
+    	"note": "debugging fron insomnia"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3120fe0b3a58422db0e3a004a36e0134
+authentication: {}
+metaSortKey: -1660940397144
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

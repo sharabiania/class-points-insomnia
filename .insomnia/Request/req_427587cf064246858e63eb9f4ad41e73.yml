@@ -1,0 +1,31 @@
+_id: req_427587cf064246858e63eb9f4ad41e73
+type: Request
+parentId: fld_407dc054388d411aa8959f3e5c3a700d
+modified: 1661222181794
+created: 1660941891943
+url: localhost:3000/api/students
+name: add student
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Yussuf Abdulhakim",
+    	"nickName": "Hakim",
+    	"cohortId": 2
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_6baaff7c568040feb6a166f681e8ff23
+authentication: {}
+metaSortKey: -1660941710551.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

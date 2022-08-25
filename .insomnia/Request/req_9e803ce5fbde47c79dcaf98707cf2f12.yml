@@ -1,0 +1,21 @@
+_id: req_9e803ce5fbde47c79dcaf98707cf2f12
+type: Request
+parentId: fld_092edc345b784af4bbba1c341e53044b
+modified: 1661279933032
+created: 1660940397094
+url: localhost:4321/api/transactions
+name: get transactions
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660940397094
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

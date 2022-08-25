@@ -1,0 +1,31 @@
+_id: req_c27fd030f50041a9b57941ad4c5a4eaa
+type: Request
+parentId: fld_58df0fe22b1b4bc7bd0e2678450bd736
+modified: 1661400065400
+created: 1661399501005
+url: localhost:4322/api/auth/register
+name: register
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"username": "admin2",
+    	"password": "pass1",
+    	"cohortId": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_2186008b45e94963b668aa84eac78d87
+authentication: {}
+metaSortKey: -1661399501005
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

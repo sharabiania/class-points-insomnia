@@ -1,0 +1,30 @@
+_id: req_28914604603c45ad94d0205bd95c41e7
+type: Request
+parentId: fld_3923e0ce88024342a7cfd51f0b367192
+modified: 1660943411301
+created: 1660943332862
+url: localhost:3000/api/pointTypes
+name: add point type
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "participation",
+    	"pointValue": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_24089257ad7a489589803b738023aee4
+authentication: {}
+metaSortKey: -1660943229560
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_e829a9e441a64b7595068149a9bceb1e
+type: Request
+parentId: fld_3923e0ce88024342a7cfd51f0b367192
+modified: 1660943316466
+created: 1660943302723
+url: localhost:3000/api/pointTypes
+name: get point types
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660943302723
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

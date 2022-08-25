@@ -1,0 +1,21 @@
+_id: req_b3794dfff2e0417b8c6fe2803594a3da
+type: Request
+parentId: fld_407dc054388d411aa8959f3e5c3a700d
+modified: 1660947409826
+created: 1660941861384
+url: localhost:3000/api/students/1
+name: get students
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660941861384
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_ca685d8941c0481eb36372f222aed66c
+type: Request
+parentId: fld_eca4a01936c8447883ac3c4cf2c29a37
+modified: 1661221798373
+created: 1660941740853
+url: localhost:3000/api/cohorts
+name: add cohort
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Carlton University - 2022 - Aug"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_35ac1a845028417ba9f01e0eddebbe2f
+authentication: {}
+metaSortKey: -1660941559719
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
